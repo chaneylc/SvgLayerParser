@@ -6,4 +6,5 @@ usage:
 import SvgParser
 
 filename = "/homes/..../foo.svg"
+
 layers = build(filename, 42)
